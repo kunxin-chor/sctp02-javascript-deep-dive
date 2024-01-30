@@ -27,7 +27,7 @@ function onStyleButtonClick() {
     // }
 
     // Using for...of
-    for (i of items) {
+    for (let i of items) {
         i.style.backgroundColor = "yellow";
     }
 }
