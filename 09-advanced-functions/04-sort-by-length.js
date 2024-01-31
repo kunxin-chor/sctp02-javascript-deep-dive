@@ -1,4 +1,4 @@
-let names = ["Alice", "Bob", "Cindy", "Jonathan", "Tommy"];
+let names = ["Nathaniel", "Bob", "Cindy", "Jonathan", "Jackson"];
 
 // we want to sort by the length of the names
 // the shorter the name, the lower its index
@@ -15,11 +15,8 @@ function compareLength(a, b) {
 }
 
 function compareLengthDescending(a, b) {
-    return b.length-a.length;
+    return b.length - a.length;
 }
 
-names.sort(compareLength);
-console.log(names);
-
-names.sort(compareLengthDescending);
-console.log(names);
+console.log(names.sort(compareLength));
+console.log(names.sort(compareLengthDescending));
