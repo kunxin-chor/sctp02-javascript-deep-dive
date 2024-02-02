@@ -1,0 +1,17 @@
+[
+    {
+        "sku":1012,
+        "name":"ACME Anvil",
+        "cost": 1200
+    },
+    {
+        "sku":1022,
+        "name":"ACME Screwdriver",
+        "cost": 15
+    },
+    {
+        "sku":455,
+        "name":"ACME Hammer",
+        "cost":77
+    }
+]
