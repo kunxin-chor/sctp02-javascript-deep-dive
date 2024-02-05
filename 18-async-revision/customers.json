@@ -1,0 +1,22 @@
+{
+    "customers": [
+        {
+            "id": 171,
+            "name":"Jon Snow",
+            "age": 27,
+            "email":"jonsnow@winterfell.com"
+        },
+        {
+            "id":421,
+            "name":"Sansa Stark",
+            "age": 31,
+            "email":"sansa@winterfell.com"
+        },
+        {
+            "id":221,
+            "name":"Charile Brown",
+            "age": 9,
+            "email":"charile@goodgrief.com"
+        }
+    ]
+}
